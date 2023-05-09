@@ -1,7 +1,7 @@
-package com.platzimarket.persistence.mapper;
+package com.platzi.market.persistence.mapper;
 
-import com.platzimarket.domain.Category;
-import com.platzimarket.persistence.entity.Categoria;
+import com.platzi.market.persistence.entity.Categoria;
+import com.platzi.market.domain.Category;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

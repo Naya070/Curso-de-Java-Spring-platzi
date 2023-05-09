@@ -1,10 +1,10 @@
-package com.platzimarket.persistence;
+package com.platzi.market.persistence;
 
-import com.platzimarket.domain.Product;
-import com.platzimarket.domain.repository.ProductRepository;
-import com.platzimarket.persistence.crud.ProductoCrudRepository;
-import com.platzimarket.persistence.entity.Producto;
-import com.platzimarket.persistence.mapper.ProductMapper;
+import com.platzi.market.domain.repository.ProductRepository;
+import com.platzi.market.persistence.crud.ProductoCrudRepository;
+import com.platzi.market.persistence.entity.Producto;
+import com.platzi.market.persistence.mapper.ProductMapper;
+import com.platzi.market.domain.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
